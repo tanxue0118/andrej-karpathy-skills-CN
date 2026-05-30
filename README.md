@@ -1,7 +1,6 @@
 # CLAUDE.md (中文翻译版)
 
 本文件翻译自 GitHub 仓库 [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills/tree/main) 中的 `CLAUDE.md`。
-并且将Claude改为opencode（其实改不改都一样)
 **原项目说明：**
 > 这是 Andrej Karpathy 编写的关于如何高效使用 AI 代码助手（如 Claude）的一系列技能和最佳实践。
 
